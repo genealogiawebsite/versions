@@ -1,19 +1,19 @@
 {
-    "name": "laravel-enso/versions",
+    "name": "genealogiawebsite/versions",
     "description": "Prevents update conflicts using the pessimistic lock pattern in Laravel",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "versions",
         "trait",
         "pessimistic-lock"
     ],
-    "homepage": "https://github.com/laravel-enso/versions",
+    "homepage": "https://github.com/genealogiawebsite/versions",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
